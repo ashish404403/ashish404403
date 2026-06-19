@@ -7,7 +7,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8FF&center=true&vCenter=true&width=650&lines=Automating+infrastructure%2C+one+pipeline+at+a+time;Building+reliable+%26+secure+systems;Always+learning%2C+always+shipping;Open+for+freelance+DevOps+%2F+SRE+work" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashish404403&color=2EA8FF&style=flat-square&label=Profile+Views)](https://github.com/ashish404403)
-[![GitHub followers](https://img.shields.io/github/followers/ashish404403?label=Follow&style=social)](https://github.com/ashish404403)
+[![GitHub followers](https://img.shields.io/github/followers/ashish404403?label=Follow&style=flat-square&color=2EA8FF)](https://github.com/ashish404403)
+![Open to Freelance](https://img.shields.io/badge/Status-Open_for_Freelance_Work-success?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-India-orange?style=flat-square)
+
+<p>
+  <a href="#-about-me">About</a> ·
+  <a href="#-my-approach">Approach</a> ·
+  <a href="#-tech-stack--tools">Tech Stack</a> ·
+  <a href="#-github-stats">Stats</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-freelance--hire-me">Hire Me</a> ·
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
 </div>
 
@@ -16,11 +28,23 @@
 ## 🚀 About Me
 
 - 🔭 Currently **freelancing** as a DevOps Engineer — helping teams ship faster with reliable, automated, and secure infrastructure.
-- 🎯 Focused on **DevOps, Site Reliability Engineering (SRE), and Cybersecurity**.
+- 🎯 Focused on the intersection of **DevOps, Site Reliability Engineering (SRE), and Cybersecurity**.
 - 🌱 Always learning — new tools, new attack surfaces, new ways to break (and fix) things.
 - 🛠️ I enjoy designing CI/CD pipelines, hardening cloud environments, and improving observability.
-- 🤝 Open to freelance projects, collaborations, and interesting open-source work.
+- 🤝 Open to freelance projects, short-term contracts, and interesting open-source work.
 - ⚡ Fun fact: I'd rather automate a task three times than do it manually once.
+
+---
+
+## 🧭 My Approach
+
+> A few principles that guide how I build and ship systems:
+
+- **Automate the boring stuff.** If it's done twice, it gets scripted. If it's scripted twice, it gets pipelined.
+- **Security is a default, not a phase.** Least privilege, secrets management, and scanning belong in the pipeline from day one — not bolted on after an incident.
+- **Observability before optimization.** You can't fix what you can't measure — metrics, logs, and traces come first.
+- **Infrastructure as Code, always.** Manual changes don't scale and don't survive an audit.
+- **Document like future-you forgot everything.** Because future-you will.
 
 ---
 
@@ -74,7 +98,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ashish404403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish404403&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish404403&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish404403&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashish404403/ashish404403/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashish404403/ashish404403/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ashish404403/ashish404403/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -89,17 +123,31 @@
 
 ---
 
-## 💼 Freelance — Let's Work Together
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ashish404403/awesome-docker-compose"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=awesome-docker-compose&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=ci-cd&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/GitHub-Actions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=GitHub-Actions&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+## 💼 Freelance & Hire Me
 
 I take on freelance projects involving:
 
-- ⚙️ CI/CD pipeline design & optimization
-- ☁️ Cloud infrastructure setup, migration & cost optimization
-- ☸️ Kubernetes deployment, scaling & hardening
-- 📡 Monitoring, logging & observability setup
-- 🔒 Security audits, hardening & vulnerability assessments
+| Service | Details |
+|---|---|
+| ⚙️ CI/CD Pipeline Design | Build & optimize pipelines (Jenkins, GitHub Actions, GitLab CI) |
+| ☁️ Cloud Infrastructure | Setup, migration, and cost optimization (AWS / Azure / GCP) |
+| ☸️ Kubernetes | Deployment, scaling, and security hardening |
+| 📡 Observability | Monitoring, logging, and alerting setup (Prometheus, Grafana, ELK) |
+| 🔒 Security Audits | Vulnerability assessments and infrastructure hardening |
 
-If you have a project in mind, feel free to reach out!
+Have a project in mind? Reach out via any of the channels below.
 
 ---
 
@@ -108,7 +156,7 @@ If you have a project in mind, feel free to reach out!
 <p align="left">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
