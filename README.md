@@ -95,10 +95,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashish404403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish404403&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-stats-extended-frontend-five.vercel.app/api?username=ashish404403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="48%" />
+<img src="https://github-stats-extended-frontend-five.vercel.app/api/top-langs/?username=ashish404403&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish404403&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats-wheat-two.vercel.app/?user=ashish404403&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -127,9 +127,9 @@
 
 <div align="center">
 
-<a href="https://github.com/ashish404403/awesome-docker-compose"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=awesome-docker-compose&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ashish404403/ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=ci-cd&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ashish404403/GitHub-Actions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish404403&repo=GitHub-Actions&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/awesome-docker-compose"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=awesome-docker-compose&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/ci-cd"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=ci-cd&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/GitHub-Actions"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=GitHub-Actions&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
