@@ -98,7 +98,7 @@
 <img src="https://github-stats-extended-frontend-five.vercel.app/api?username=ashish404403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="48%" />
 <img src="https://github-stats-extended-frontend-five.vercel.app/api/top-langs/?username=ashish404403&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-<img src="https://github-readme-streak-stats-wheat-two.vercel.app/?user=ashish404403&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://raw.githubusercontent.com/ashish404403/ashish404403/main/profile/streak.svg" alt="GitHub Streak" width="60%" />
 
 </div>
 
