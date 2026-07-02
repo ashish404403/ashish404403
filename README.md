@@ -14,7 +14,7 @@
 <p>
   <a href="#-about-me">About</a> ·
   <a href="#-my-approach">Approach</a> ·
-  <a href="#-tech-stack--tools">Tech Stack</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
   <a href="#-github-stats">Stats</a> ·
   <a href="#-featured-projects">Projects</a> ·
   <a href="#-freelance--hire-me">Hire Me</a> ·
@@ -47,7 +47,7 @@
 - **Document like future-you forgot everything.** Because future-you will.
 
 ---
-
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack & Tools
 
 **☁️ Cloud**
