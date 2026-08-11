@@ -151,19 +151,3 @@ Have a project in mind? Reach out via any of the channels below.
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
-
----
-
-<div align="center">
-
-⭐️ From [ashish404403](https://github.com/ashish404403) — thanks for stopping by!
-
-</div>
