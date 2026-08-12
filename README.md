@@ -35,18 +35,6 @@
 - ⚡ Fun fact: I'd rather automate a task three times than do it manually once.
 
 ---
-
-## 🧭 My Approach
-
-> A few principles that guide how I build and ship systems:
-
-- **Automate the boring stuff.** If it's done twice, it gets scripted. If it's scripted twice, it gets pipelined.
-- **Security is a default, not a phase.** Least privilege, secrets management, and scanning belong in the pipeline from day one — not bolted on after an incident.
-- **Observability before optimization.** You can't fix what you can't measure — metrics, logs, and traces come first.
-- **Infrastructure as Code, always.** Manual changes don't scale and don't survive an audit.
-- **Document like future-you forgot everything.** Because future-you will.
-
----
 <a name="tech-stack"></a>
 ## 🛠️ Tech Stack & Tools
 
