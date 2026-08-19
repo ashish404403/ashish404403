@@ -117,7 +117,7 @@
 
 <a href="https://github.com/ashish404403/awesome-docker-compose"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=awesome-docker-compose&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/ashish404403/ci-cd"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=ci-cd&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ashish404403/GitHub-Actions"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=GitHub-Actions&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashish404403/argocd-app-config"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=argocd-app-config&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
