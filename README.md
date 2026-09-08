@@ -13,12 +13,9 @@
 
 <p>
   <a href="#-about-me">About</a> ·
-  <a href="#-my-approach">Approach</a> ·
   <a href="#tech-stack">Tech Stack</a> ·
   <a href="#-github-stats">Stats</a> ·
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-freelance--hire-me">Hire Me</a> ·
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#-freelance--hire-me">Hire Me</a>
 </p>
 
 </div>
@@ -108,18 +105,6 @@
 - 📐 SRE practices — SLOs, error budgets, incident response & postmortems
 - 🛡️ Offensive & defensive security fundamentals (CTFs, threat hunting, pentesting)
 - ☁️ Cloud security posture management across multi-cloud setups
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ashish404403/awesome-docker-compose"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=awesome-docker-compose&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ashish404403/ci-cd"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=ci-cd&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ashish404403/argocd-app-config"><img src="https://github-stats-extended-frontend-five.vercel.app/api/pin/?username=ashish404403&repo=argocd-app-config&theme=tokyonight&hide_border=true" /></a>
-
-</div>
 
 ---
 
